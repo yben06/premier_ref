@@ -3,4 +3,4 @@ aller sur vs code
 créer un fichier .cpp 
 copier le code desus
 sauvegarder
-buld and run
+et lancer *buld and run
